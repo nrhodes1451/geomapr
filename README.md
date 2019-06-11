@@ -1,6 +1,6 @@
 # geomapr
 
-NUTS2-level heatmaps using UK postcode data.
+[NUTS2-level](https://en.wikipedia.org/wiki/Nomenclature_of_Territorial_Units_for_Statistics)  heatmaps using UK postcode data.
 
 ## Example
 
@@ -15,3 +15,4 @@ my_map <- geomap(
 my_map # It may take a minute or two for the map to render
 
 ```
+![Heatmap](https://github.com/nrhodes1451/geomapr/blob/master/images/heatmap.png)
