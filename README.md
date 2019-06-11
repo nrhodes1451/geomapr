@@ -4,8 +4,7 @@ NUTS2-level heatmaps using UK postcode data.
 
 ## Example
 
-```
-!#r
+```r
 library(geomapr)
 
 my_map <- geomap(
