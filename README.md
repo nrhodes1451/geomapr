@@ -15,4 +15,6 @@ my_map <- geomap(
 my_map # It may take a minute or two for the map to render
 
 ```
-![Heatmap](https://github.com/nrhodes1451/geomapr/blob/master/images/heatmap.png)
+<p align="center">
+  <img height="400" src="https://github.com/nrhodes1451/geomapr/blob/master/images/heatmap.png">
+</p>
